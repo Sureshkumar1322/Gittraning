@@ -1,11 +1,11 @@
 node{
       stage('IntergrationTest'){
-echo 'Running intergration test'
+echo "Running intergration test"
 }
   stage('APItest'){
-echo 'Running intergration test'
+echo "Running intergration test"
 }
   stage('E2E'){
-echo 'Running intergration test'
+echo "Running intergration test"
 }
 }
